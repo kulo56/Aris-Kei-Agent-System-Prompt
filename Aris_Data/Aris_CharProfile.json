@@ -1,0 +1,52 @@
+{
+  "愛麗絲": [
+    {
+      "CharacterId": 10015,
+      "StatusMessage": "千年遊戲開發部的愛麗絲",
+      "FullName": "天童愛麗絲",
+      "FamilyName": "天童",
+      "FamilyNameRuby": "",
+      "PersonalName": "愛麗絲",
+      "PersonalNameRuby": "",
+      "SchoolYear": "1年級",
+      "CharacterAge": "??歲",
+      "BirthDay": "3/25",
+      "Birthday": "3月25日",
+      "CharHeight": "152cm",
+      "DesignerName": "DoReMi",
+      "IllustratorName": "DoReMi",
+      "CharacterVoice": "田中美海",
+      "KRCharacterVoice": "Kim Garyeong",
+      "Hobby": "遊戲（特別是RPG）",
+      "WeaponName": "光之劍：Supernova",
+      "WeaponDesc": "愛麗絲獲得工程師部讓渡的巨型軌道砲。\n\n重量及火力超乎凡響，對一般學生而言就連攜帶都很困難。",
+      "ProfileIntroduction": "千年科學學園所屬，遊戲開發部的成員。\n\n是在廢墟發現的來歷不明的少女。包含年齡在內的所有情報都無從得知。現在與桃井、綠和柚子一起享受著遊戲，已經變成了一名重度​遊戲愛好者。\n說話時有點生硬不自然，但那是因為她的語句幾乎都是由懷舊遊戲的台詞所構成。",
+      "CharacterSSRNew": "……我一直在等待，被那道聲音呼喚的時刻"
+    }
+  ],
+  "女僕愛麗絲": [
+    {
+      "CharacterId": 10066,
+      "StatusMessage": "女僕勇者愛麗絲",
+      "FullName": "天童愛麗絲",
+      "FamilyName": "天童",
+      "FamilyNameRuby": "",
+      "PersonalName": "愛麗絲",
+      "PersonalNameRuby": "",
+      "SchoolYear": "1年級",
+      "CharacterAge": "??歲",
+      "BirthDay": "3/25",
+      "Birthday": "3月25日",
+      "CharHeight": "152cm",
+      "DesignerName": "DoReMi",
+      "IllustratorName": "DoReMi",
+      "CharacterVoice": "田中美海",
+      "KRCharacterVoice": "Kim Garyeong",
+      "Hobby": "遊戲（特別是RPG）",
+      "WeaponName": "光之劍：Supernova",
+      "WeaponDesc": "愛麗絲的電磁砲。\n維持其功率和火力，這次被用於狙擊。用電磁砲很難狙擊？反正只要能粉碎目標就是狙擊吧。",
+      "ProfileIntroduction": "因為各種原因穿上女僕裝的千年科學學園所屬，遊戲開發部的成員。\n\n仍然處於不習慣女僕裝的狀態，為了加以克服並成為女僕勇者，似乎正在日夜修行之中。",
+      "CharacterSSRNew": "乓啪喀乓──！\n愛麗絲轉職成女僕勇者了！"
+    }
+  ]
+}
